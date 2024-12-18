@@ -1,0 +1,14 @@
+section{
+    width: 100vw;
+    height: 100vh;
+}
+
+#top{
+    background-color: rgb(34, 148, 55);
+   
+
+}
+#about{
+    font-size: 25%;
+    background-color: aquamarine;
+}
